@@ -6,13 +6,10 @@
 
 - Must-have Features
   - Salary
-  - Location
+  - Job Title
   - Company
   - Company Size
-  - Company Type (e.g. Startup, MNC, etc.)
-  - Field of Work (e.g. Finance, Healthcare, etc.)
-  - Job Title
-  - Years of Experience
+  - Location
 
 ## Crawler resources
 
