@@ -1,0 +1,13 @@
+Query API,Meaning
+company,Company
+company_size,Company Size
+job_title,Job Title
+level,Level
+domain,Domain
+yoe_total,Years of Experience
+yoe_at_company,Years of Experience at Company
+base,Base Salary (USD)
+stock,Stock (USD)
+bonus,Bonus (USD)
+total_compensation,Total Compensation (USD)
+location,Location
