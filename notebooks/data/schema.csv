@@ -1,13 +1,13 @@
 Query API,Meaning
-company,Company
+company,Company Name
 company_size,Company Size
 job_title,Job Title
-level,Level
-domain,Domain
+level,Level (Based on company's internal level system)
+domain,Domain (Industry)
 yoe_total,Years of Experience
 yoe_at_company,Years of Experience at Company
-base,Base Salary (USD)
-stock,Stock (USD)
-bonus,Bonus (USD)
-total_compensation,Total Compensation (USD)
+base,Base Salary (USD - Annual)
+stock,Stock (USD - Annual)
+bonus,Bonus (USD - Annual)
+total_compensation,Total Compensation (USD - Annual)
 location,Location
