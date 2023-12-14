@@ -1,8 +1,0 @@
-requests
-bs4
-pandas
-numpy
-selenium
-seaborn
-statsmodels
-scikit-learn
